@@ -3,3 +3,5 @@
 2. 创建提交git commit -m "first commit"，如果没有注册会提示，设置你的名字和 email（git config）
 3. 连接 Github 仓库：git remote add origin 仓库链接
 4. 把本地仓库推送到远端仓库中：git push origin master （需要提供用户名和密码）
+
+ ![img](https://github.com/glsnh/Louplus/git.png)
